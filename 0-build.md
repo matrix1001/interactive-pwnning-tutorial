@@ -7,6 +7,7 @@
     - editor on your host system.
         - recommend `notepad++` for windows.
     - alternatively, terminal editor like `vim`.
+    - **editor mainly serves as recorder**
 - terminal
     - terminal on your host system.
         - recommend `msys2` for windows.

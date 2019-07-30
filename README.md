@@ -22,4 +22,5 @@ This tutorial teaches you a new way of pwnning from my two and a half year's pwn
 
 each section will be presented with a pwn challenge, except section 0.
 
-- **0-build** this section teaches you how to build up interactive pwn environment.
+- [**0-build**](0-build.md) this section teaches you how to build up interactive pwn environment.
+- [**1-brute**](1-brute.md) it contains a challenge which need to be solved with brute force. it will show you how to `pass` brute force while debugging.
