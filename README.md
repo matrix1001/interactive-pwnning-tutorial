@@ -11,8 +11,8 @@ This tutorial teaches you a new way of pwnning from my two and a half year's pwn
 ## requirement
 
 - pwntools
-- [welpwn](https://github.com/matrix1001/welpwn) ( not necessary )
-- [glibc-all-in-one](https://github.com/matrix1001/glibc-all-in-one) ( not necessary )
+- [welpwn](https://github.com/matrix1001/welpwn)
+- [glibc-all-in-one](https://github.com/matrix1001/glibc-all-in-one)
 - IPython
 - gdb
 - pwndbg ( peda, gef ... )
